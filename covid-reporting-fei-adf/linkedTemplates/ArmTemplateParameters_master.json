@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "covid-reporting-fei-adf"
+		},
+		"Is_ablob_covidreportingsa_connectionString": {
+			"value": ""
+		},
+		"Is_adlscovidreportingdl_accountKey": {
+			"value": ""
+		},
+		"Is_adlscovidreportingdl_properties_typeProperties_url": {
+			"value": "https://covid2019reportdatalake.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
