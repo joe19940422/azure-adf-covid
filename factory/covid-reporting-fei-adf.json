@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-fei-adf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c073b0d8-2137-4117-8039-dd6f462a9a40",
+		"tenantId": "60adc7a8-6f03-4364-be7a-578b1deb6204"
+	}
+}
